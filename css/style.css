@@ -46,6 +46,8 @@
     object-fit: scale-down;
     }
 
+ 
+
   @media (min-width: 768px) {
     .carousel-multi-item-2 .col-md-3 {
     float: left;
